@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIR1",1,"-31.515056478585507 , -184.8280932774586 , -279.53834878205055  PIR Sensor"
+"L1",1," Light bulb"
+"PIEZO2",1," Piezo"
+"P2",1,"5 , 5  Power Supply"
+"GAS3",1," Gas Sensor"
+"R1",1,"1 kΩ Resistor"
